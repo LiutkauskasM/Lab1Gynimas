@@ -9,6 +9,6 @@
     <string name="name">Customer</string>
     <string name="price">Price</string>
     <string name="description">Description</string>
-    <string name="quantity">Quntity</string>
+    <string name="quantity">Quantity</string>
     <string name="send_invoice">Send Invoice</string>
 </resources>
