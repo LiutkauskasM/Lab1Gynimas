@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab1gynimas_minliu1</string>
+    <string name="new_invoice">New invoice</string>
+    <string name="phone">+3706000000</string>
+    <string name="invoice_number">Invoice #INV000</string>
+    <string name="calledID">Android Services Inc.</string>
+    <string name="bill_to">Bill to:</string>
+    <string name="adress">"Studentų g. 50, Kaunas, Lithuania "</string>
+    <string name="name">Customer</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="quantity">Quntity</string>
+    <string name="send_invoice">Send Invoice</string>
+</resources>
